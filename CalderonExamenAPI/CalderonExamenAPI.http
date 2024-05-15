@@ -1,0 +1,6 @@
+@CalderonExamenAPI_HostAddress = http://localhost:5023
+
+GET {{CalderonExamenAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

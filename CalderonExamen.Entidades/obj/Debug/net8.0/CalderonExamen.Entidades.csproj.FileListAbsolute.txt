@@ -1,0 +1,11 @@
+C:\Users\kevin\source\repos\CalderonExamen.Entidades\bin\Debug\net8.0\CalderonExamen.Entidades.deps.json
+C:\Users\kevin\source\repos\CalderonExamen.Entidades\bin\Debug\net8.0\CalderonExamen.Entidades.dll
+C:\Users\kevin\source\repos\CalderonExamen.Entidades\bin\Debug\net8.0\CalderonExamen.Entidades.pdb
+C:\Users\kevin\source\repos\CalderonExamen.Entidades\obj\Debug\net8.0\CalderonExamen.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\CalderonExamen.Entidades\obj\Debug\net8.0\CalderonExamen.Entidades.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\CalderonExamen.Entidades\obj\Debug\net8.0\CalderonExamen.Entidades.AssemblyInfo.cs
+C:\Users\kevin\source\repos\CalderonExamen.Entidades\obj\Debug\net8.0\CalderonExamen.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\CalderonExamen.Entidades\obj\Debug\net8.0\CalderonExamen.Entidades.dll
+C:\Users\kevin\source\repos\CalderonExamen.Entidades\obj\Debug\net8.0\refint\CalderonExamen.Entidades.dll
+C:\Users\kevin\source\repos\CalderonExamen.Entidades\obj\Debug\net8.0\CalderonExamen.Entidades.pdb
+C:\Users\kevin\source\repos\CalderonExamen.Entidades\obj\Debug\net8.0\ref\CalderonExamen.Entidades.dll

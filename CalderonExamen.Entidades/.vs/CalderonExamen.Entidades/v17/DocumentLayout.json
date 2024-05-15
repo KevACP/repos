@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kevin\\source\\repos\\CalderonExamen.Entidades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26353399-465A-423B-8DF2-98C5B88A4FC6}|..\\Examen.ConsumeAPI\\Examen.ConsumeAPI.csproj|c:\\users\\kevin\\source\\repos\\examen.consumeapi\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7592A-B06A-4D23-992D-A884C5AE9A37}|..\\CalderonExamenAPI\\CalderonExamenAPI.csproj|c:\\users\\kevin\\source\\repos\\calderonexamenapi\\controllers\\musicascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kevin\\source\\repos\\CalderonExamenAPI\\Migrations\\20240515182848_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7592A-B06A-4D23-992D-A884C5AE9A37}|..\\CalderonExamenAPI\\CalderonExamenAPI.csproj|c:\\users\\kevin\\source\\repos\\calderonexamenapi\\controllers\\artistascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7592A-B06A-4D23-992D-A884C5AE9A37}|..\\CalderonExamenAPI\\CalderonExamenAPI.csproj|c:\\users\\kevin\\source\\repos\\calderonexamenapi\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7592A-B06A-4D23-992D-A884C5AE9A37}|..\\CalderonExamenAPI\\CalderonExamenAPI.csproj|c:\\users\\kevin\\source\\repos\\calderonexamenapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7592A-B06A-4D23-992D-A884C5AE9A37}|..\\CalderonExamenAPI\\CalderonExamenAPI.csproj|c:\\users\\kevin\\source\\repos\\calderonexamenapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7592A-B06A-4D23-992D-A884C5AE9A37}|..\\CalderonExamenAPI\\CalderonExamenAPI.csproj|c:\\users\\kevin\\source\\repos\\calderonexamenapi\\migrations\\20240515181846_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7592A-B06A-4D23-992D-A884C5AE9A37}|..\\CalderonExamenAPI\\CalderonExamenAPI.csproj|c:\\users\\kevin\\source\\repos\\calderonexamenapi\\migrations\\dbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B78DFD7-C82B-44A5-AFDD-0828217DD534}|CalderonExamen.Entidades.csproj|c:\\users\\kevin\\source\\repos\\calderonexamen.entidades\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B78DFD7-C82B-44A5-AFDD-0828217DD534}|CalderonExamen.Entidades.csproj|solutionrelative:artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B78DFD7-C82B-44A5-AFDD-0828217DD534}|CalderonExamen.Entidades.csproj|c:\\users\\kevin\\source\\repos\\calderonexamen.entidades\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B78DFD7-C82B-44A5-AFDD-0828217DD534}|CalderonExamen.Entidades.csproj|solutionrelative:musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7592A-B06A-4D23-992D-A884C5AE9A37}|..\\CalderonExamenAPI\\CalderonExamenAPI.csproj|c:\\users\\kevin\\source\\repos\\calderonexamenapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7F7592A-B06A-4D23-992D-A884C5AE9A37}|..\\CalderonExamenAPI\\CalderonExamenAPI.csproj|c:\\users\\kevin\\source\\repos\\calderonexamenapi\\calderonexamenapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kevin\\source\\repos\\CalderonExamenAPI\\Migrations\\20240515181622_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kevin\\source\\repos\\CalderonExamenAPI\\Migrations\\20240515181143_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Crud.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\Examen.ConsumeAPI\\Crud.cs",
+              "RelativeDocumentMoniker": "..\\Examen.ConsumeAPI\\Crud.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\Examen.ConsumeAPI\\Crud.cs",
+              "RelativeToolTip": "..\\Examen.ConsumeAPI\\Crud.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:37:57.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240515182848_v2.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\CalderonExamenAPI\\Migrations\\20240515182848_v2.cs",
+              "RelativeDocumentMoniker": "..\\CalderonExamenAPI\\Migrations\\20240515182848_v2.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\CalderonExamenAPI\\Migrations\\20240515182848_v2.cs",
+              "RelativeToolTip": "..\\CalderonExamenAPI\\Migrations\\20240515182848_v2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:28:48.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\CalderonExamenAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "..\\CalderonExamenAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\CalderonExamenAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "..\\CalderonExamenAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:21:19.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusicasController.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\CalderonExamenAPI\\Controllers\\MusicasController.cs",
+              "RelativeDocumentMoniker": "..\\CalderonExamenAPI\\Controllers\\MusicasController.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\CalderonExamenAPI\\Controllers\\MusicasController.cs",
+              "RelativeToolTip": "..\\CalderonExamenAPI\\Controllers\\MusicasController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAwE8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:08:16.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\CalderonExamenAPI\\Data\\DBContext.cs",
+              "RelativeDocumentMoniker": "..\\CalderonExamenAPI\\Data\\DBContext.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\CalderonExamenAPI\\Data\\DBContext.cs",
+              "RelativeToolTip": "..\\CalderonExamenAPI\\Data\\DBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:07:25.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArtistasController.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\CalderonExamenAPI\\Controllers\\ArtistasController.cs",
+              "RelativeDocumentMoniker": "..\\CalderonExamenAPI\\Controllers\\ArtistasController.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\CalderonExamenAPI\\Controllers\\ArtistasController.cs",
+              "RelativeToolTip": "..\\CalderonExamenAPI\\Controllers\\ArtistasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:06:33.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Artista.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\CalderonExamen.Entidades\\Artista.cs",
+              "RelativeDocumentMoniker": "Artista.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\CalderonExamen.Entidades\\Artista.cs",
+              "RelativeToolTip": "Artista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:02:28.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\CalderonExamen.Entidades\\Musica.cs",
+              "RelativeDocumentMoniker": "Musica.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\CalderonExamen.Entidades\\Musica.cs",
+              "RelativeToolTip": "Musica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:58:05.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240515181846_v1.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\CalderonExamenAPI\\Migrations\\20240515181846_v1.cs",
+              "RelativeDocumentMoniker": "..\\CalderonExamenAPI\\Migrations\\20240515181846_v1.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\CalderonExamenAPI\\Migrations\\20240515181846_v1.cs",
+              "RelativeToolTip": "..\\CalderonExamenAPI\\Migrations\\20240515181846_v1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:18:46.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DBContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\CalderonExamenAPI\\Migrations\\DBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\CalderonExamenAPI\\Migrations\\DBContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\CalderonExamenAPI\\Migrations\\DBContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\CalderonExamenAPI\\Migrations\\DBContextModelSnapshot.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:23:09.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\CalderonExamenAPI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CalderonExamenAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\CalderonExamenAPI\\Program.cs",
+              "RelativeToolTip": "..\\CalderonExamenAPI\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:24:16.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\CalderonExamenAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\CalderonExamenAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\CalderonExamenAPI\\appsettings.json",
+              "RelativeToolTip": "..\\CalderonExamenAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T18:07:20.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CalderonExamenAPI",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\CalderonExamenAPI\\CalderonExamenAPI.csproj",
+              "RelativeDocumentMoniker": "..\\CalderonExamenAPI\\CalderonExamenAPI.csproj",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\CalderonExamenAPI\\CalderonExamenAPI.csproj",
+              "RelativeToolTip": "..\\CalderonExamenAPI\\CalderonExamenAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-15T18:03:33.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240515181143_v1.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\CalderonExamenAPI\\Migrations\\20240515181143_v1.cs",
+              "RelativeDocumentMoniker": "..\\CalderonExamenAPI\\Migrations\\20240515181143_v1.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\CalderonExamenAPI\\Migrations\\20240515181143_v1.cs",
+              "RelativeToolTip": "..\\CalderonExamenAPI\\Migrations\\20240515181143_v1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:11:43.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240515181622_v1.cs",
+              "DocumentMoniker": "C:\\Users\\kevin\\source\\repos\\CalderonExamenAPI\\Migrations\\20240515181622_v1.cs",
+              "RelativeDocumentMoniker": "..\\CalderonExamenAPI\\Migrations\\20240515181622_v1.cs",
+              "ToolTip": "C:\\Users\\kevin\\source\\repos\\CalderonExamenAPI\\Migrations\\20240515181622_v1.cs",
+              "RelativeToolTip": "..\\CalderonExamenAPI\\Migrations\\20240515181622_v1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:16:22.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
